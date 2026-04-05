@@ -13,7 +13,9 @@
 
 * Personal Assignment and Lab 5
 * Personal Labs 1-4
-* 
+* Week 1-10
+* CCNA Certificate
+* Exploring Network Certificate
 * Checkpoint Exam
 
 ---
